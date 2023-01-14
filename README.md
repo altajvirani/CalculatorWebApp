@@ -10,6 +10,3 @@ A simple calculator web app made in neumorphism theme using HTML, CSS and JavaSc
 
 ## Link
 https://neumorphismcalculator.netlify.app
-
-## Dribbble Shot
-https://dribbble.com/shots/20352843-Neumorphism-Calculator
